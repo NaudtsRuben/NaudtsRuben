@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Ruben, a Belgian software developer with a passion for creating anything I can think of. At the moment, I successfully achieved a Bachelor's degree of Applied Computer Sciences at Ghent University College and am currently reaching for a Master's degree in Applied Computer Sciences at the KU Leuven. 
+
+I like to learn new technologies and further advance my current knowledge of them, and prefer to do that while working on a fun (and sometimes ridiculous) projects.
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ruben-naudts/) whenever you have any questions or want to work together.
+
 <!--
 **NaudtsRuben/NaudtsRuben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
